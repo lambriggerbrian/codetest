@@ -1,0 +1,3 @@
+[submodule "plat_dev/sl"]
+	path = plat_dev/sl
+	url = git@github.com:mtoyoda/sl.git
