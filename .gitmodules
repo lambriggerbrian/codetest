@@ -1,3 +1,6 @@
 [submodule "plat_dev/sl"]
 	path = plat_dev/sl
 	url = git@github.com:mtoyoda/sl.git
+[submodule "plat_dev/codetest_sl"]
+	path = plat_dev/codetest_sl
+	url = git@github.com:lambriggerbrian/codetest_sl
